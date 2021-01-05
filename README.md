@@ -8,6 +8,6 @@
 
 #Launch Script
 
-> node httpeven.js url proxylist.txt time method
+> node hentai.js url proxylist.txt time method
 
-> node httpeven.js https://check-host.net/check-http?host=https://www.brazzers.com/join http.txt 60 GET
+> node hentai.js https://check-host.net/check-http?host=https://www.brazzers.com/join http.txt 60 GET
