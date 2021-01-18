@@ -6,6 +6,16 @@
 
 > cd HTTP-SENPAI
 
+
+#Installation Tutoriel for Skido
+
+> npm i cloudscraper
+
+> npm i request
+
+> CREATE OR UPDATE HTTP.TXT FILE IN DIRECTORY and pute PROXYLIST on it
+
+
 #Launch Script
 
 > node hentai.js url proxylist.txt time method
