@@ -9,6 +9,15 @@
 
 #Installation Tutoriel for Skido
 
+INSTALL NODEJ SAND NPM
+
+apt install nodejs
+apt install npm
+
+yum install nodejs
+yum install npm
+
+
 > npm i cloudscraper
 
 > npm i request
