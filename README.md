@@ -29,4 +29,4 @@ yum install npm
 
 > node hentai.js url proxylist.txt time method
 
-> node hentai.js https://check-host.net/check-http?host=https://www.brazzers.com/join http.txt 60 GET
+> node hentai.js https://o-tacos.com/fr/ http.txt 60 GET
